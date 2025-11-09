@@ -19,11 +19,11 @@
 
 ### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Ai automation workflows & ai agents
+- 🌱 I’m currently learning agentic ai & ai automation
+- 💬 Ask me about anything
+- 📫 How to reach me: my linkedin and email
+- ⚡ Fun fact: iam a generalist
 
 ---
 
